@@ -1,0 +1,20 @@
+{
+  "name": "vue_i18n-scanner",
+  "version": "1.0.0",
+  "description": "vue i18n scanner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lucien",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.23.9",
+    "@babel/eslint-parser": "^7.23.10",
+    "@babel/traverse": "^7.23.9",
+    "@babel/types": "^7.23.9",
+    "eslint": "^8.56.0",
+    "fs-extra": "^11.2.0",
+    "vue-eslint-parser": "^9.4.2"
+  }
+}
