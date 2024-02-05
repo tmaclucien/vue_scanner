@@ -1,0 +1,1 @@
+console.log($t('普通的js文件'))
